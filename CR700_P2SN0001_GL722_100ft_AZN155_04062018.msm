@@ -1,0 +1,9 @@
+<CalDR SoftVer="5.12.5" z_range="60.0" steps="13" avg="20" ParamStr="measure -f CR700_P2SN0001_GL722_100ft_AZN155_04062018 -z 60 -n 13 -m 20 -sp COM9 -mav 15 ">
+	<LocalTime Date="20180406" Time="164700"/>
+	<User Name="Trimble"/>
+
+	<LinMeasurement>
+		<measurement no="1" stage="-30.000" psd="-0.368570" psd_dev="0.017524" dro="-29.227" dro_dev="1.375" ch1="82" ch2="179" Ts1="23.8" Ts2="8.4" Tw="29.8" Up="15.2" />
+	</LinMeasurement>
+
+</CalDR>

@@ -1,0 +1,19 @@
+<CalDR SoftVer="5.12.5" z_range="60.0" steps="13" avg="20" ParamStr="measure -f CR700_P2SN0001_GL722_100ft_AZP45_04062018 -z 60 -n 13 -m 20 -sp COM9 -mav 15 ">
+	<LocalTime Date="20180406" Time="151358"/>
+	<User Name="Trimble"/>
+
+	<LinMeasurement>
+		<measurement no="1" stage="-50.000" psd="-0.586147" psd_dev="0.002732" dro="-49.940" dro_dev="0.342" ch1="517" ch2="1984" Ts1="51.5" Ts2="19.4" Tw="81.0" Up="55.4" />
+		<measurement no="2" stage="-40.000" psd="-0.491389" psd_dev="0.003676" dro="-39.843" dro_dev="0.364" ch1="674" ch2="1978" Ts1="53.7" Ts2="21.5" Tw="70.1" Up="72.8" />
+		<measurement no="3" stage="-30.000" psd="-0.376940" psd_dev="0.003645" dro="-29.918" dro_dev="0.303" ch1="890" ch2="1967" Ts1="51.0" Ts2="20.6" Tw="79.6" Up="69.2" />
+		<measurement no="4" stage="-20.000" psd="-0.244572" psd_dev="0.003297" dro="-20.020" dro_dev="0.224" ch1="1189" ch2="1960" Ts1="51.1" Ts2="22.6" Tw="76.0" Up="81.0" />
+		<measurement no="5" stage="-10.000" psd="-0.094141" psd_dev="0.002323" dro="-9.953" dro_dev="0.147" ch1="1594" ch2="1925" Ts1="45.8" Ts2="19.4" Tw="81.7" Up="72.0" />
+		<measurement no="6" stage="-0.000" psd="0.059522" psd_dev="0.003672" dro="0.222" dro_dev="0.232" ch1="1903" ch2="1690" Ts1="46.0" Ts2="19.6" Tw="82.7" Up="72.5" />
+		<measurement no="7" stage="10.000" psd="0.208899" psd_dev="0.004645" dro="9.855" dro_dev="0.304" ch1="1958" ch2="1281" Ts1="46.3" Ts2="19.0" Tw="79.0" Up="68.5" />
+		<measurement no="8" stage="20.000" psd="0.352264" psd_dev="0.003321" dro="19.899" dro_dev="0.255" ch1="1966" ch2="941" Ts1="46.9" Ts2="18.6" Tw="76.4" Up="63.7" />
+		<measurement no="9" stage="30.000" psd="0.469861" psd_dev="0.003302" dro="29.656" dro_dev="0.282" ch1="1982" ch2="714" Ts1="48.6" Ts2="18.7" Tw="71.5" Up="66.9" />
+		<measurement no="10" stage="40.000" psd="0.571952" psd_dev="0.002628" dro="39.918" dro_dev="0.285" ch1="1977" ch2="538" Ts1="46.1" Ts2="17.2" Tw="70.2" Up="60.2" />
+		<measurement no="11" stage="50.000" psd="0.641404" psd_dev="0.002608" dro="48.888" dro_dev="0.439" ch1="1923" ch2="420" Ts1="45.3" Ts2="16.5" Tw="68.0" Up="58.1" />
+	</LinMeasurement>
+
+</CalDR>

@@ -1,0 +1,83 @@
+<CalDR SoftVer="5.12.5" z_range="60.0" steps="121" avg="20" ParamStr="measure -f CR700_P2SN0001_150ft_LL300N_AZN90_3272018 -z 60 -n 121 -m 20 -sp COM9 -mav 5 ">
+	<LocalTime Date="20180327" Time="173821"/>
+	<User Name="Trimble"/>
+
+	<LinMeasurement>
+		<measurement no="1" stage="-41.000" psd="-0.537736" psd_dev="0.022257" dro="-44.299" dro_dev="2.369" ch1="30" ch2="99" Ts1="20.1" Ts2="6.3" Tw="15.8" Up="17.8" />
+		<measurement no="2" stage="-40.000" psd="-0.515891" psd_dev="0.024846" dro="-42.015" dro_dev="2.521" ch1="38" ch2="118" Ts1="20.0" Ts2="5.8" Tw="18.4" Up="11.8" />
+		<measurement no="3" stage="-38.000" psd="-0.487842" psd_dev="0.022347" dro="-39.282" dro_dev="2.016" ch1="46" ch2="133" Ts1="22.1" Ts2="7.3" Tw="21.6" Up="15.6" />
+		<measurement no="4" stage="-37.000" psd="-0.473356" psd_dev="0.019707" dro="-37.960" dro_dev="1.750" ch1="48" ch2="134" Ts1="21.8" Ts2="7.0" Tw="23.8" Up="13.0" />
+		<measurement no="5" stage="-36.000" psd="-0.457018" psd_dev="0.019515" dro="-36.474" dro_dev="1.758" ch1="52" ch2="141" Ts1="21.8" Ts2="7.3" Tw="23.5" Up="15.7" />
+		<measurement no="6" stage="-35.000" psd="-0.449226" psd_dev="0.023473" dro="-35.766" dro_dev="2.124" ch1="53" ch2="139" Ts1="22.9" Ts2="7.7" Tw="19.7" Up="32.4" />
+		<measurement no="7" stage="-34.000" psd="-0.434202" psd_dev="0.016122" dro="-34.389" dro_dev="1.463" ch1="57" ch2="146" Ts1="21.4" Ts2="7.2" Tw="20.2" Up="37.8" />
+		<measurement no="8" stage="-33.000" psd="-0.423864" psd_dev="0.023074" dro="-33.493" dro_dev="2.048" ch1="56" ch2="140" Ts1="22.1" Ts2="7.3" Tw="20.9" Up="5.0" />
+		<measurement no="9" stage="-32.000" psd="-0.408656" psd_dev="0.024223" dro="-32.191" dro_dev="2.012" ch1="57" ch2="135" Ts1="21.5" Ts2="7.9" Tw="20.9" Up="24.2" />
+		<measurement no="10" stage="-31.000" psd="-0.397806" psd_dev="0.018390" dro="-31.279" dro_dev="1.489" ch1="57" ch2="132" Ts1="21.4" Ts2="7.3" Tw="22.3" Up="8.0" />
+		<measurement no="11" stage="-30.000" psd="-0.394686" psd_dev="0.017363" dro="-31.004" dro_dev="1.379" ch1="53" ch2="124" Ts1="20.6" Ts2="6.5" Tw="20.4" Up="22.2" />
+		<measurement no="12" stage="-29.000" psd="-0.380783" psd_dev="0.021125" dro="-29.934" dro_dev="1.700" ch1="53" ch2="118" Ts1="22.6" Ts2="7.3" Tw="21.1" Up="20.6" />
+		<measurement no="13" stage="-28.000" psd="-0.355935" psd_dev="0.019065" dro="-27.977" dro_dev="1.475" ch1="55" ch2="117" Ts1="22.2" Ts2="6.8" Tw="21.9" Up="14.8" />
+		<measurement no="14" stage="-27.000" psd="-0.355667" psd_dev="0.025532" dro="-27.971" dro_dev="1.976" ch1="56" ch2="119" Ts1="21.1" Ts2="6.5" Tw="21.9" Up="15.3" />
+		<measurement no="15" stage="-26.000" psd="-0.326748" psd_dev="0.021568" dro="-25.738" dro_dev="1.664" ch1="58" ch2="114" Ts1="20.2" Ts2="6.5" Tw="19.3" Up="18.9" />
+		<measurement no="16" stage="-25.000" psd="-0.324188" psd_dev="0.020055" dro="-25.547" dro_dev="1.535" ch1="62" ch2="121" Ts1="22.3" Ts2="6.9" Tw="21.5" Up="21.8" />
+		<measurement no="17" stage="-24.000" psd="-0.303881" psd_dev="0.023123" dro="-24.003" dro_dev="1.741" ch1="68" ch2="127" Ts1="23.7" Ts2="7.7" Tw="24.5" Up="15.3" />
+		<measurement no="18" stage="-23.000" psd="-0.300764" psd_dev="0.013799" dro="-23.762" dro_dev="1.031" ch1="67" ch2="124" Ts1="23.8" Ts2="7.5" Tw="22.1" Up="17.8" />
+		<measurement no="19" stage="-22.000" psd="-0.277158" psd_dev="0.016609" dro="-22.036" dro_dev="1.205" ch1="74" ch2="131" Ts1="21.4" Ts2="7.5" Tw="23.1" Up="21.4" />
+		<measurement no="20" stage="-21.000" psd="-0.271130" psd_dev="0.019378" dro="-21.617" dro_dev="1.377" ch1="70" ch2="122" Ts1="21.6" Ts2="7.2" Tw="23.7" Up="14.2" />
+		<measurement no="21" stage="-20.000" psd="-0.244945" psd_dev="0.015168" dro="-19.785" dro_dev="1.037" ch1="78" ch2="129" Ts1="23.1" Ts2="8.3" Tw="21.6" Up="24.0" />
+		<measurement no="22" stage="-19.000" psd="-0.238626" psd_dev="0.014965" dro="-19.354" dro_dev="1.019" ch1="80" ch2="131" Ts1="23.2" Ts2="7.8" Tw="24.7" Up="17.1" />
+		<measurement no="23" stage="-18.000" psd="-0.222829" psd_dev="0.017560" dro="-18.277" dro_dev="1.201" ch1="80" ch2="126" Ts1="21.9" Ts2="7.6" Tw="24.9" Up="16.1" />
+		<measurement no="24" stage="-17.000" psd="-0.201708" psd_dev="0.015037" dro="-16.824" dro_dev="1.051" ch1="83" ch2="126" Ts1="22.1" Ts2="7.3" Tw="24.9" Up="15.8" />
+		<measurement no="25" stage="-16.000" psd="-0.183757" psd_dev="0.018123" dro="-15.598" dro_dev="1.235" ch1="85" ch2="124" Ts1="24.8" Ts2="8.2" Tw="25.1" Up="16.9" />
+		<measurement no="26" stage="-15.000" psd="-0.165426" psd_dev="0.016730" dro="-14.363" dro_dev="1.110" ch1="89" ch2="125" Ts1="23.6" Ts2="7.7" Tw="25.6" Up="15.9" />
+		<measurement no="27" stage="-14.000" psd="-0.149783" psd_dev="0.017645" dro="-13.327" dro_dev="1.163" ch1="91" ch2="123" Ts1="22.9" Ts2="7.5" Tw="26.8" Up="13.3" />
+		<measurement no="28" stage="-13.000" psd="-0.132456" psd_dev="0.012635" dro="-12.174" dro_dev="0.853" ch1="97" ch2="126" Ts1="21.6" Ts2="7.5" Tw="23.4" Up="22.1" />
+		<measurement no="29" stage="-12.000" psd="-0.124619" psd_dev="0.014924" dro="-11.662" dro_dev="0.993" ch1="97" ch2="125" Ts1="23.9" Ts2="7.9" Tw="26.6" Up="14.9" />
+		<measurement no="30" stage="-11.000" psd="-0.103460" psd_dev="0.014861" dro="-10.278" dro_dev="0.956" ch1="101" ch2="124" Ts1="23.5" Ts2="7.9" Tw="26.6" Up="14.6" />
+		<measurement no="31" stage="-10.000" psd="-0.087030" psd_dev="0.009742" dro="-9.229" dro_dev="0.630" ch1="113" ch2="134" Ts1="23.1" Ts2="8.0" Tw="27.3" Up="15.3" />
+		<measurement no="32" stage="-9.000" psd="-0.065103" psd_dev="0.013461" dro="-7.808" dro_dev="0.877" ch1="116" ch2="132" Ts1="23.1" Ts2="7.8" Tw="27.3" Up="15.4" />
+		<measurement no="33" stage="-8.000" psd="-0.057431" psd_dev="0.013682" dro="-7.303" dro_dev="0.908" ch1="121" ch2="135" Ts1="23.3" Ts2="8.0" Tw="27.9" Up="15.6" />
+		<measurement no="34" stage="-7.000" psd="-0.040556" psd_dev="0.011229" dro="-6.165" dro_dev="0.776" ch1="125" ch2="136" Ts1="23.4" Ts2="8.2" Tw="28.4" Up="15.4" />
+		<measurement no="35" stage="-6.000" psd="-0.019107" psd_dev="0.011394" dro="-4.648" dro_dev="0.816" ch1="132" ch2="137" Ts1="23.6" Ts2="8.4" Tw="29.1" Up="15.5" />
+		<measurement no="36" stage="-5.000" psd="-0.007756" psd_dev="0.008847" dro="-3.839" dro_dev="0.618" ch1="134" ch2="136" Ts1="23.5" Ts2="8.4" Tw="29.3" Up="15.6" />
+		<measurement no="37" stage="-4.000" psd="0.010695" psd_dev="0.013825" dro="-2.636" dro_dev="0.887" ch1="140" ch2="137" Ts1="23.8" Ts2="8.4" Tw="29.9" Up="15.7" />
+		<measurement no="38" stage="-3.000" psd="0.016713" psd_dev="0.010631" dro="-2.237" dro_dev="0.693" ch1="137" ch2="132" Ts1="23.7" Ts2="8.4" Tw="29.3" Up="15.4" />
+		<measurement no="39" stage="-2.000" psd="0.033472" psd_dev="0.011991" dro="-1.143" dro_dev="0.772" ch1="136" ch2="127" Ts1="23.4" Ts2="8.1" Tw="28.6" Up="15.6" />
+		<measurement no="40" stage="-1.000" psd="0.052794" psd_dev="0.015393" dro="0.052" dro_dev="0.961" ch1="139" ch2="125" Ts1="23.6" Ts2="8.3" Tw="29.0" Up="15.3" />
+		<measurement no="41" stage="-0.000" psd="0.067998" psd_dev="0.015780" dro="0.998" dro_dev="0.982" ch1="134" ch2="117" Ts1="23.1" Ts2="8.1" Tw="27.8" Up="15.2" />
+		<measurement no="42" stage="1.000" psd="0.088588" psd_dev="0.014975" dro="2.285" dro_dev="0.945" ch1="135" ch2="113" Ts1="23.1" Ts2="7.8" Tw="27.6" Up="15.3" />
+		<measurement no="43" stage="2.000" psd="0.108424" psd_dev="0.015621" dro="3.534" dro_dev="1.002" ch1="137" ch2="110" Ts1="22.9" Ts2="8.0" Tw="27.3" Up="15.3" />
+		<measurement no="44" stage="3.000" psd="0.118527" psd_dev="0.011765" dro="4.179" dro_dev="0.767" ch1="135" ch2="107" Ts1="22.9" Ts2="7.8" Tw="27.1" Up="15.1" />
+		<measurement no="45" stage="4.000" psd="0.141051" psd_dev="0.017916" dro="5.638" dro_dev="1.159" ch1="137" ch2="103" Ts1="22.9" Ts2="7.8" Tw="26.9" Up="15.1" />
+		<measurement no="46" stage="5.000" psd="0.151522" psd_dev="0.019967" dro="6.313" dro_dev="1.284" ch1="135" ch2="100" Ts1="22.7" Ts2="7.7" Tw="26.2" Up="15.2" />
+		<measurement no="47" stage="6.000" psd="0.169317" psd_dev="0.013682" dro="7.461" dro_dev="0.886" ch1="138" ch2="98" Ts1="22.7" Ts2="7.8" Tw="26.5" Up="15.2" />
+		<measurement no="48" stage="7.000" psd="0.191633" psd_dev="0.012821" dro="8.933" dro_dev="0.858" ch1="140" ch2="95" Ts1="23.6" Ts2="8.0" Tw="26.9" Up="14.9" />
+		<measurement no="49" stage="8.000" psd="0.195280" psd_dev="0.016576" dro="9.169" dro_dev="1.104" ch1="140" ch2="94" Ts1="23.4" Ts2="7.8" Tw="25.1" Up="17.1" />
+		<measurement no="50" stage="9.000" psd="0.214857" psd_dev="0.012454" dro="10.482" dro_dev="0.826" ch1="140" ch2="90" Ts1="23.5" Ts2="9.7" Tw="20.9" Up="31.6" />
+		<measurement no="51" stage="10.000" psd="0.225589" psd_dev="0.015658" dro="11.210" dro_dev="1.078" ch1="143" ch2="90" Ts1="24.9" Ts2="8.2" Tw="23.4" Up="26.2" />
+		<measurement no="52" stage="11.000" psd="0.245801" psd_dev="0.017787" dro="12.611" dro_dev="1.241" ch1="142" ch2="86" Ts1="26.8" Ts2="9.4" Tw="21.0" Up="11.9" />
+		<measurement no="53" stage="12.000" psd="0.261668" psd_dev="0.011446" dro="13.725" dro_dev="0.807" ch1="145" ch2="84" Ts1="23.4" Ts2="8.5" Tw="23.3" Up="24.9" />
+		<measurement no="54" stage="13.000" psd="0.268121" psd_dev="0.014272" dro="14.178" dro_dev="1.007" ch1="149" ch2="86" Ts1="25.6" Ts2="9.5" Tw="22.2" Up="31.8" />
+		<measurement no="55" stage="14.000" psd="0.281870" psd_dev="0.017783" dro="15.142" dro_dev="1.242" ch1="152" ch2="85" Ts1="22.4" Ts2="9.5" Tw="18.9" Up="36.0" />
+		<measurement no="56" stage="15.000" psd="0.305691" psd_dev="0.018810" dro="16.800" dro_dev="1.316" ch1="145" ch2="77" Ts1="22.8" Ts2="9.7" Tw="16.9" Up="39.5" />
+		<measurement no="57" stage="16.000" psd="0.320100" psd_dev="0.017668" dro="17.812" dro_dev="1.274" ch1="148" ch2="76" Ts1="25.9" Ts2="8.7" Tw="20.1" Up="30.9" />
+		<measurement no="58" stage="17.000" psd="0.334918" psd_dev="0.015152" dro="18.882" dro_dev="1.116" ch1="151" ch2="75" Ts1="23.3" Ts2="9.3" Tw="20.1" Up="32.1" />
+		<measurement no="59" stage="18.000" psd="0.343351" psd_dev="0.013244" dro="19.497" dro_dev="0.972" ch1="152" ch2="74" Ts1="24.1" Ts2="9.9" Tw="17.3" Up="35.5" />
+		<measurement no="60" stage="19.000" psd="0.358309" psd_dev="0.013873" dro="20.622" dro_dev="1.081" ch1="151" ch2="71" Ts1="24.1" Ts2="9.7" Tw="18.1" Up="32.4" />
+		<measurement no="61" stage="20.000" psd="0.372476" psd_dev="0.016080" dro="21.751" dro_dev="1.242" ch1="154" ch2="70" Ts1="22.8" Ts2="9.0" Tw="20.9" Up="34.5" />
+		<measurement no="62" stage="21.000" psd="0.393405" psd_dev="0.017857" dro="23.431" dro_dev="1.484" ch1="154" ch2="67" Ts1="21.3" Ts2="9.4" Tw="20.1" Up="43.8" />
+		<measurement no="63" stage="22.000" psd="0.404898" psd_dev="0.014533" dro="24.376" dro_dev="1.210" ch1="155" ch2="66" Ts1="23.6" Ts2="8.7" Tw="20.6" Up="27.8" />
+		<measurement no="64" stage="23.000" psd="0.419001" psd_dev="0.021029" dro="25.553" dro_dev="1.777" ch1="160" ch2="65" Ts1="23.5" Ts2="9.4" Tw="17.8" Up="39.1" />
+		<measurement no="65" stage="24.000" psd="0.429787" psd_dev="0.020509" dro="26.474" dro_dev="1.747" ch1="158" ch2="63" Ts1="27.9" Ts2="9.3" Tw="20.2" Up="42.2" />
+		<measurement no="66" stage="25.000" psd="0.438978" psd_dev="0.011932" dro="27.257" dro_dev="1.020" ch1="162" ch2="63" Ts1="25.9" Ts2="10.3" Tw="15.2" Up="43.8" />
+		<measurement no="67" stage="26.000" psd="0.450207" psd_dev="0.016488" dro="28.216" dro_dev="1.402" ch1="164" ch2="62" Ts1="21.6" Ts2="8.2" Tw="19.7" Up="30.9" />
+		<measurement no="68" stage="27.000" psd="0.460949" psd_dev="0.013376" dro="29.126" dro_dev="1.133" ch1="161" ch2="59" Ts1="20.9" Ts2="7.7" Tw="21.4" Up="26.2" />
+		<measurement no="69" stage="28.000" psd="0.484843" psd_dev="0.017599" dro="31.220" dro_dev="1.591" ch1="163" ch2="57" Ts1="22.8" Ts2="8.1" Tw="19.6" Up="29.5" />
+		<measurement no="70" stage="29.000" psd="0.487520" psd_dev="0.015527" dro="31.451" dro_dev="1.394" ch1="164" ch2="56" Ts1="23.4" Ts2="8.7" Tw="22.6" Up="24.1" />
+		<measurement no="71" stage="30.000" psd="0.508785" psd_dev="0.017037" dro="33.455" dro_dev="1.653" ch1="159" ch2="52" Ts1="27.3" Ts2="8.7" Tw="21.9" Up="29.9" />
+		<measurement no="72" stage="31.000" psd="0.510315" psd_dev="0.021289" dro="33.636" dro_dev="2.108" ch1="155" ch2="50" Ts1="30.6" Ts2="10.3" Tw="15.9" Up="37.5" />
+		<measurement no="73" stage="32.000" psd="0.537726" psd_dev="0.020014" dro="36.416" dro_dev="2.128" ch1="150" ch2="45" Ts1="23.6" Ts2="8.6" Tw="18.3" Up="20.3" />
+		<measurement no="74" stage="33.000" psd="0.548577" psd_dev="0.020094" dro="37.608" dro_dev="2.177" ch1="143" ch2="41" Ts1="23.6" Ts2="8.6" Tw="16.9" Up="37.5" />
+		<measurement no="75" stage="34.000" psd="0.556155" psd_dev="0.016399" dro="38.416" dro_dev="1.771" ch1="141" ch2="40" Ts1="23.4" Ts2="8.9" Tw="14.8" Up="43.1" />
+	</LinMeasurement>
+
+</CalDR>

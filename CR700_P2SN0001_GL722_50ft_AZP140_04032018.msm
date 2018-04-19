@@ -1,0 +1,16 @@
+<CalDR SoftVer="5.12.5" z_range="60.0" steps="13" avg="20" ParamStr="measure -f CR700_P2SN0001_GL722_50ft_AZP140_04032018 -z 60 -n 13 -m 20 -sp COM9 -mav 15 ">
+	<LocalTime Date="20180403" Time="165329"/>
+	<User Name="Trimble"/>
+
+	<LinMeasurement>
+		<measurement no="1" stage="-40.000" psd="-0.478162" psd_dev="0.018568" dro="-38.226" dro_dev="1.644" ch1="53" ch2="151" Ts1="22.0" Ts2="7.2" Tw="23.6" Up="14.8" />
+		<measurement no="2" stage="-30.000" psd="-0.371375" psd_dev="0.013803" dro="-29.084" dro_dev="1.072" ch1="73" ch2="159" Ts1="23.0" Ts2="7.8" Tw="26.7" Up="14.8" />
+		<measurement no="3" stage="-20.000" psd="-0.232405" psd_dev="0.017971" dro="-18.919" dro_dev="1.212" ch1="78" ch2="125" Ts1="21.9" Ts2="7.0" Tw="22.9" Up="15.7" />
+		<measurement no="4" stage="-10.000" psd="-0.073586" psd_dev="0.015132" dro="-8.426" dro_dev="0.972" ch1="97" ch2="112" Ts1="22.3" Ts2="7.3" Tw="24.3" Up="14.7" />
+		<measurement no="5" stage="10.000" psd="0.246160" psd_dev="0.023107" dro="12.420" dro_dev="1.593" ch1="102" ch2="62" Ts1="20.6" Ts2="6.0" Tw="19.1" Up="15.0" />
+		<measurement no="6" stage="20.000" psd="0.346967" psd_dev="0.007838" dro="19.467" dro_dev="0.574" ch1="583" ch2="282" Ts1="40.6" Ts2="23.1" Tw="89.7" Up="15.9" />
+		<measurement no="7" stage="30.000" psd="0.447491" psd_dev="0.003831" dro="27.631" dro_dev="0.340" ch1="1070" ch2="408" Ts1="46.8" Ts2="30.5" Tw="131.6" Up="17.6" />
+		<measurement no="8" stage="40.000" psd="0.522943" psd_dev="0.005295" dro="34.397" dro_dev="0.551" ch1="946" ch2="296" Ts1="44.6" Ts2="28.3" Tw="121.3" Up="16.5" />
+	</LinMeasurement>
+
+</CalDR>
